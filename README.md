@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm MUHAMMAD AHSAN YASIN </h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer...;Flutter%20Developer...;&center=true&size=24">
+  </a>
+</h3>
 # 💫 About Me:
 🌱 I’m currently learning : App Development in Flutter & Dart<br>2022 Goals : Efficient in Flutter & Firebase<br>How to reach me : muhamadahsanyasin@gmail.com<br>💬 Ask me about : Flutter
 
